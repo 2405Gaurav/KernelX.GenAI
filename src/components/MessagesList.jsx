@@ -151,12 +151,12 @@ export const MessagesList = () => {
       {/* {preRecordedMessages.length === 0 && ( */}
         <div className="h-full w-full grid place-content-center text-center">
           <h2 className="text-8xl font-bold text-white/90 italic">
-            Niko Teaches
+            KernelX Teaches 
             <br />
-            Empower
+            GenAI
           </h2>
           <h2 className="text-8xl font-bold font-jp text-red-600/90 italic">
-            Better Learn
+            Google Develpoer Group
           </h2>
         </div>
       {/* )} */}
