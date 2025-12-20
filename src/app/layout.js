@@ -15,8 +15,8 @@ export const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata = {
-  title: "AI tutor",
-  description: "better Learn with AI",
+  title: "KernelX | GenAI",
+  description: "better Learn with GenAI",
 };
 
 export default function RootLayout({ children }) {
